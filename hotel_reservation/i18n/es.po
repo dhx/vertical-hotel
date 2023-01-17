@@ -919,7 +919,7 @@ msgstr "Contacto"
 #: code:addons/hotel_reservation/models/hotel_room.py:0
 #, fuzzy, python-format
 msgid "Please Check Rooms Status for %s."
-msgstr "Informe de reserva de hotel"
+msgstr "Informe de reserva de hotel: %s."
 
 #. module: hotel_reservation
 #: code:addons/hotel_reservation/models/hotel_reservation.py:0

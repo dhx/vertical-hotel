@@ -903,7 +903,7 @@ msgstr "Contact"
 #: code:addons/hotel_reservation/models/hotel_room.py:0
 #, fuzzy, python-format
 msgid "Please Check Rooms Status for %s."
-msgstr "Réservation"
+msgstr ""
 
 #. module: hotel_reservation
 #: code:addons/hotel_reservation/models/hotel_reservation.py:0
